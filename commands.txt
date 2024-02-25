@@ -1,6 +1,6 @@
 git init 
 git add
-git --restore
+git rm --cached
 git commit -m 
 git log
 git status
