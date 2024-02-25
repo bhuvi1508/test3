@@ -1,0 +1,10 @@
+git init 
+git add
+git --restore
+git commit -m 
+git log
+git status
+git log --prety
+git log --prety --oneline
+git checkout -b 
+
