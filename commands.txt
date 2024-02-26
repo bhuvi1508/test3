@@ -8,3 +8,6 @@ git log --prety
 git log --prety --oneline
 git checkout -b 
 git rest
+
+git push origin master
+
